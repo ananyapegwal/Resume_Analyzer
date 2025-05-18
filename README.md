@@ -32,8 +32,3 @@ Upload your resume as a PDF and receive instant, intelligent insights powered by
 ![image](https://github.com/user-attachments/assets/d4d603a1-7298-4d37-a981-551763f43992)
 
 
-
----
-
-## 📁 Folder Structure
-
